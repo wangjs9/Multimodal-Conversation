@@ -9,3 +9,5 @@ This repository is about papers related to multi-modal conversation. Since my re
 
 ## Modality Fusion
 * Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition (EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.06434v1.pdf) | [code](https://github.com/Srijith-rkr/Whispering-LLaMA) | at)
+
+## Large Pretrained Multimodal Models

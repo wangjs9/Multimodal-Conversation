@@ -7,8 +7,11 @@ This repository is about papers related to multi-modal conversation. Since my re
 * IEMOCAP: Interactive emotional dyadic motion capture database (Lang Resour Eval 2008 | citation: 2798 | [paper](https://link.springer.com/article/10.1007/s10579-008-9076-6) | [data request form](https://github.com/Aditya3107/IEMOCAP_EMOTION_Recognition) | avt)
 * MELD: Multimodal EmotionLines Dataset (2018 | citation: 678 | [paper](https://arxiv.org/pdf/1810.02508.pdf) | [data](https://affective-meld.github.io/) | avt)
 
+## Conversation Models
+* Hi Sheldon! Creating Deep Personalized Characters from TV Shows ([paper](https://arxiv.org/pdf/2304.11093.pdf)|avt)
+
 ## Modality Fusion
 * Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition (EMNLP 2023 | [paper](https://arxiv.org/pdf/2310.06434v1.pdf) | [code](https://github.com/Srijith-rkr/Whispering-LLaMA) | at)
 
 ## Large Multimodal Models
-* Multimodal Chain-of-Thought Reasoning in Language Models ([paper](https://arxiv.org/pdf/2302.00923.pdf)|[code](https://github.com/amazon-science/mm-cot)|vt)
+* Multimodal Chain-of-Thought Reasoning in Language Models ([paper](https://arxiv.org/pdf/2302.00923.pdf)|[code](https://github.com/amazon-science/mm-cot)|vt) :star2:
